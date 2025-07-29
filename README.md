@@ -10,6 +10,7 @@
 
 GeoIP2FastReverse is a Python package designed for fast reverse lookups: You provide a country/ASN/city code and we return the corresponding IPv4/IPv6 networks. It utilizes the Maxmind database updated twice a week. Fast as always, and pure Python! (some people need that).
 
+Scheduled for release on July 31, 2025
 <!-- 
 # Installation
 ```bash
