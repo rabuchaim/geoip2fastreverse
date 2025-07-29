@@ -8,7 +8,7 @@
 [![Code Quality](https://img.shields.io/lgtm/grade/python/github/yourusername/geoip2fastreverse)](https://lgtm.com/projects/g/yourusername/geoip2fastreverse/context:python)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/yourusername/geoip2fastreverse.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/yourusername/geoip2fastreverse/context:python) -->
 
-GeoIP2FastReverse is a Python package designed for fast reverse lookups: You provide a country/ASN/city code and we return the corresponding IPv4/IPv6 networks. It utilizes the Maxmind database updated twice a week. Fast as always, and pure Python! (some people need that).
+GeoIP2FastReverse is a Python package designed for fast reverse lookups: you provide a country/ASN/city code and we return the corresponding IPv4/IPv6 networks. Useful for firewall rules. It uses the Maxmind database, updated twice a week. Fast as always, and in pure Python!.
 
 Scheduled for release on July 31, 2025
 <!-- 
